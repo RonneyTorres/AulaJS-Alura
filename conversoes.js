@@ -13,4 +13,4 @@ console.log(numero + Number(numeroString));
 
 
 // conversão explícita
-
+//teste
